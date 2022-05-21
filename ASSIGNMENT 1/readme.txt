@@ -1,4 +1,4 @@
-In the PartI Sample Pizza Restauarant is used to demonstrate the usage of all HTML tags.
+In the PartII Sample Coffee website  is used to demonstrate the usage of all HTML contollabes.
 This consists of mainly Home Page, About page, and Menu page.
 The tags are used described below:
 1. <!Doctype html>: It is providing information to the browser about the didcument type.
@@ -21,5 +21,9 @@ The tags are used described below:
 18. <tr>: defines a table row
 19. <th>: defines a table header
 20. <td>: defines a table cell.
-
+21. <section>: defines a section of a document.
+22. <header>: represents the container for the introductory content or set of navigational links.
+23. <footer>: defines a footer for  a document  or section.
+25. <video>: it is used to  embed video into the file.
+26. <source>: tag is used to specify the multiple media resources.
 The above are the html tags used in this sample web page  creation.
